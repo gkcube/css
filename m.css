@@ -1,10 +1,10 @@
 
 body {max-width: 700px;user-select: none;
-background-image: url("https://cdn.jsdelivr.net/gh/gkcube/images@1/css-3.png");
+background-image: url("https://cdn.statically.io/gh/gkcube/images@f77f1ed/css2.png");
 background-color: #94d4ff;
 background-repeat: repeat;
 background-attachment: fixed;
-background-size: 180px 180px;
+background-size: 150px 150px;
 margin:0px auto 0px auto;
 color:white;}
 
@@ -186,7 +186,7 @@ wm,cm {display:none;margin-top:-99px;margin-bottom:8px; position:absolute;left:c
 #resetpopup {display:none;z-index:11;}
 #belowpopup {display:none; position:fixed; width:100%;top:0;left:0; height:100vh; background-color:rgba(0, 0, 0, 0.5);z-index:10;}
 
-  .mainbox {width:calc(100% - 20px); background-color:#27273f;float:left;margin-left:10px;margin-top:10px;margin-bottom:100px;padding-top:0px;border-radius:20px;box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.55); }
+  .mainbox {width:calc(100% - 20px); background-color:#1d1d2f;float:left;margin-left:10px;margin-top:10px;margin-bottom:100px;padding-top:0px;border-radius:20px;box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.55); }
   .box1 {float:left;width:calc(50% - 26px);margin-bottom:10px;margin-left:13.34px;border-radius:15px;padding-bottom:0px;padding-top:0px;box-shadow: 0px 0px 0px 0px rgba(255,255,255,0.40);border:3px solid #3a3a5f;} 
   
   .box1:after {content: "";display: block;padding-bottom: 82%;}
